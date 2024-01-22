@@ -1,1 +1,5 @@
 print("importing this to pycharm")
+a = 4
+b = 10
+c = a + b
+print(c)
